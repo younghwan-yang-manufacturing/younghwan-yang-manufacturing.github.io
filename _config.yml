@@ -13,7 +13,7 @@ logo: CWNU logo.png
 description: > # 다음 줄에 연구실 소개 입력
   여기 test 진행 연구실 소개 입;
 baseurl: "" # the subpath of your site, e.g. /blog
-github_username:  SMArTlab
+github_username:
 google-site-verification:
 
 # Build settings
