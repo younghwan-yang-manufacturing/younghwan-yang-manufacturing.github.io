@@ -10,12 +10,10 @@ title: 멀티스케일 구조설계 및 스마트제조 연구실
 short_labname: SMArT Lab
 email: younghwan@changwon.ac.kr
 logo: CWNU logo.png
-description: > # 다음 줄에 연구실 소개 입력
-  ChungLab of Computational Neuroscience, Seoul National University; 
-  창원대학교 기계공학부 스마트제조융합전공 양영환 교수 멀티스케일 구조설계 및 스마트제조 연구실; 
-  Younghwan Yang;
+description: 본 멀티스케일 구조설계 및 스마트제조 연구실에서는 매학기 학부연구원 및 대학원생을 모집하고 있습니다. 
+세계적인 공학자가 되고자 하는 꿈과 열정을 가진 학생들의 관심을 바라며, younghwan@changwon.ac.kr 로 연락 바랍니다.
 baseurl: "" # the subpath of your site, e.g. /blog
-github_username:  ChungLab
+github_username:  SMArT lab
 google-site-verification:
 
 # Build settings
