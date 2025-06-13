@@ -24,7 +24,7 @@ affiliation:
     program:  #전공
 
 address:
-  building: 53호관 # 본관/재료/병원/관악 넷중 하나로 입력
+  building: 본관 # 본관/재료/병원/관악 넷중 하나로 입력
   office: 205호
   lab: xxx호
 
