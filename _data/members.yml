@@ -16,45 +16,47 @@ PI:
 #  twitter: gehoon
 #  instagram: gehoon
 
-- name: 신규 멤버
-  engName: New member
-#  degree: DDS, BS
-#  bio: Calcium Imaging, Alchemy
-  period: 2025/9-
-  jobtitle: MS Student
-  portrait: anonymous.jpg
-  e-mail: new_guy@changwon.ac.kr
-#  web:
-#  scopus:
-#  orcid:
-#  researcherID:
-#  loop:
-#  linked:
-#  fb: byeongmin.lee.9
-#  twitter:
-#  instagram:
-
-- name: 신규 멤버
-  engName: New member
-#  degree: DDS, BS
-#  bio: Calcium Imaging, Alchemy
-  period: 2025/9-
-  jobtitle: MS Student
-  portrait: anonymous.jpg
-  e-mail: new_guy@changwon.ac.kr
-#  web:
-#  scopus:
-#  orcid:
-#  researcherID:
-#  loop:
-#  linked:
-#  fb: byeongmin.lee.9
-#  twitter:
-#  instagram:
-
 Members:
-- name: 신규 멤버
-  engName: New member
+
+
+- name: 신규 멤버1
+  engName: New member 1
+#  degree: DDS, BS
+#  bio: Calcium Imaging, Alchemy
+  period: 2025/9-
+  jobtitle: MS Student
+  portrait: anonymous.jpg
+  e-mail: new_guy@changwon.ac.kr
+#  web:
+#  scopus:
+#  orcid:
+#  researcherID:
+#  loop:
+#  linked:
+#  fb: byeongmin.lee.9
+#  twitter:
+#  instagram:
+
+- name: 신규 멤버2
+  engName: New member 2
+#  degree: DDS, BS
+#  bio: Calcium Imaging, Alchemy
+  period: 2025/9-
+  jobtitle: MS Student
+  portrait: anonymous.jpg
+  e-mail: new_guy@changwon.ac.kr
+#  web:
+#  scopus:
+#  orcid:
+#  researcherID:
+#  loop:
+#  linked:
+#  fb: byeongmin.lee.9
+#  twitter:
+#  instagram:
+
+- name: 신규 멤버 3
+  engName: New member 3
 #  degree: DDS, BS
 #  bio: Calcium Imaging, Alchemy
   period: 2025/9-
