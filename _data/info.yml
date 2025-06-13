@@ -26,7 +26,7 @@ affiliation:
 #    program:  #전공
 
 address:
-  building: 창원 # 본관/재료/병원/관악 넷중 하나로 입력
+  building: 재료  # 본관/재료/병원/관악 넷중 하나로 입력
   office: 공대3호관(53호관) 205호
 #  lab: 50x호
 
