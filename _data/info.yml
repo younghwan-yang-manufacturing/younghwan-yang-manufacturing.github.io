@@ -1,12 +1,10 @@
 overview:
   - testing
   - 이 연구실은 아주 좋은 연구실 입니다.
-  - 연구실에 대한 대략적인 소개를 _data 폴더의 info.yml 파일에 써 주세요.
 
 mainFig:
-  - frontImg_1.jpg
-  - frontImg_2.jpg
-  - frontImg_3.jpg
+  - Main_testing_1.jpg
+  - Main_testing_2.jpg
 
 affiliation:
   - school: #단과대학
