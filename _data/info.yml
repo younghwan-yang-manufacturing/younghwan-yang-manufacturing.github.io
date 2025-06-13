@@ -1,4 +1,5 @@
 overview:
+  - testing
   - 이 연구실은 아주 좋은 연구실 입니다.
   - 연구실에 대한 대략적인 소개를 _data 폴더의 info.yml 파일에 써 주세요.
 
@@ -26,10 +27,10 @@ affiliation:
 
 address:
   building: 병원 # 본관/재료/병원/관악 넷중 하나로 입력
-  office: 50x호
+  office: 53관205호
   lab: 50x호
 
 phone:
-  office: 02-880-xxxx
+  office: 055-213-3624
   lab: 02-880-xxxx
   fax: 02-762-xxxx
